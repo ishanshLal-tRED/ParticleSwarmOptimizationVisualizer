@@ -1,6 +1,30 @@
 # Vulkan Test - Particle Swarm Optimization
 this is me learning vulkan and playing with it.
 
+Main menu/Console:
+![image](./assets/screenshots/Main menu-Console.png)
+Simulation Space: 
+
+
+
+
+
+Simulation Running:
+ Paused Full-screen: 
+Now Camera following G-Best Displaying Location of Particle on console: 
+
+
+
+
+
+Opening the Console again:
+  
+Particle converging in simulation: 
+Explaining various UI elements:  
+Note: cognitive constant is controls personal influence, social constant controls social influence
+
+
+
 dependencies:
 > CMake, <br>
 > vcpkg, <br>
