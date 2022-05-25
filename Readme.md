@@ -1,30 +1,27 @@
 # Vulkan Test - Particle Swarm Optimization
 this is me learning vulkan and playing with it.
 
-Main menu/Console:
-![image](./assets/screenshots/Main menu-Console.png)
-Simulation Space: 
+Main menu/Console: <br>
+![image](./assets/screenshots/MainMenu-Console.png) <br>
+Simulation Space: <br>
+![image](./assets/screenshots/SimulationSpace.png) <br>
+Simulation Running: <br>
+![image](./assets/screenshots/SimulationRunning.png) <br>
+Paused Full-screen: <br>
+![image](./assets/screenshots/PausedFull-screen.png) <br>
+Now Camera following G-Best <br>
+![image](./assets/screenshots/NowCameraFollowingG-Best.png) <br>
+Displaying Location of Particle on console: <br>
+![image](./assets/screenshots/DisplayingLocationOfParticleOnConsole.png) <br>
+Opening the Console again: <br>
+![image](./assets/screenshots/OpeningTheConsoleAgain.png) <br>
+Particle converging in simulation: <br>
+![image](./assets/screenshots/ParticleConvergingInSimulation.png) <br>
+Explaining various UI elements: <br>
+![image](./assets/screenshots/ExplainingVariousUIElements.png) <br>
 
-
-
-
-
-Simulation Running:
- Paused Full-screen: 
-Now Camera following G-Best Displaying Location of Particle on console: 
-
-
-
-
-
-Opening the Console again:
-  
-Particle converging in simulation: 
-Explaining various UI elements:  
-Note: cognitive constant is controls personal influence, social constant controls social influence
-
-
-
+Note: cognitive constant is controls personal influence, social constant controls social influence <br>
+<br>
 dependencies:
 > CMake, <br>
 > vcpkg, <br>
