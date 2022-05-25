@@ -9,6 +9,7 @@ out
 !assets/fonts/[*.ttf, charset.txt]
 !assets/executables/msdf-atlas-gen.exe
 !assets/fonts_atlas/*[.png, .json]
+!assets/screenshots/*[.png]
 
 !assets/**/*[.glsl, .ps1]
 !TestImTerm/**/*[.cppm, .ixx, .cpp, .cxx, .hpp, .hxx, .c, .h]
