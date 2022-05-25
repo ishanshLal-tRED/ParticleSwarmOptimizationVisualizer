@@ -1,0 +1,22 @@
+*.*
+out
+
+!.gitignore
+!Readme.md
+!include/**/*[.hpp, .hxx, .h]
+
+# folders
+!assets/fonts/[*.ttf, charset.txt]
+!assets/executables/msdf-atlas-gen.exe
+!assets/fonts_atlas/*[.png, .json]
+
+!assets/**/*[.glsl, .ps1]
+!TestImTerm/**/*[.cppm, .ixx, .cpp, .cxx, .hpp, .hxx, .c, .h]
+!Triangle/**/*[.cppm, .ixx, .cpp, .cxx, .hpp, .hxx, .c, .h]
+!Instancing/**/*[.cppm, .ixx, .cpp, .cxx, .hpp, .hxx, .c, .h]
+
+!**/CMakeLists.txt
+!CMakePresets.json
+!vcpkg.json
+
+temp/CMakeLists.txt

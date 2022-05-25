@@ -1,0 +1,15 @@
+{
+    "name": "vulkan-examples",
+    "version-string": "0.0.1alpha",
+    "dependencies": [
+        "fmt",
+        "glm",
+        "spdlog",
+        "glfw3",
+        {
+            "name": "imgui",
+            "features": [ "vulkan-binding", "glfw-binding", "docking-experimental" ]
+        },
+        "nlohmann-json"
+    ]
+}
