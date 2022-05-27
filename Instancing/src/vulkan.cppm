@@ -1001,7 +1001,7 @@ std::pair<bool,bool> Instancing::UIPage::onEvent(NutCracker::Event& e, int scr_w
 			if ((int(e.GetKeyCode()) >= int(Key::A) && int(e.GetKeyCode()) <= int(Key::Z)) ||
 				(int(e.GetKeyCode()) >= int(Key::D0) && int(e.GetKeyCode()) <= int(Key::D9)) ||
 				(int(e.GetKeyCode()) == int(Key::Period)) ||
-				true)
+				false)
 				Instancing::UIElement::s_selected->text.push_back(char(e.GetKeyCode()));
 
 			refresh_texts = true;
